@@ -1,10 +1,13 @@
 _repo: Twenty-Drawings_55500
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Raphael, Alice Pearl
     gutenberg_agent_id: '48372'
     url: http://www.gutenberg.org/2009/agents/48372
+covers:
+- cover_type: archival
+  image_path: 55500-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibran, Kahlil
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1813
     wikipedia: http://en.wikipedia.org/wiki/Kahlil_Gibran
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55500#Twenty-Drawings
 gutenberg_issued: '2017-09-07'
 gutenberg_type: Text
 identifiers:
